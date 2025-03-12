@@ -65,6 +65,55 @@ Mental health issues among college students have surged globally, with studies i
 5. **Security**: AES-256 encryption, OAuth 2.0.  
 6. **Deployment**: Docker, AWS EC2.  
 
+
+
+### **Competition Overview & Strategic Alignment**  
+**HackMAIT 6.0** (hosted by **Maharaja Agrasen Institute of Technology, Delhi**) is part of **Impulse 2025**, focusing on themes like **Healthcare, Cybersecurity, and Ed-Tech**. MindGuardian aligns with the **Healthcare** track by addressing mental health crises among students through scalable AI innovation.  
+
+#### **Why HackMAIT 6.0?**  
+1. **Theme Fit**: Directly targets the **Healthcare** theme with a focus on preventive mental wellness, reducing institutional burdens.  
+2. **Social Impact**: Resonates with MAIT’s goal to foster **student-centric solutions** for real-world problems.  
+3. **Scalability**: Designed for rapid deployment in MAIT and other Delhi/NCR colleges, with potential for nationwide adoption.  
+
+---
+
+### **Execution Strategy for HackMAIT 6.0**  
+#### **Pre-Hackathon Prep (Before March 9, 2025)**  
+- **Research**: Analyze anonymized stress patterns from MAIT’s student surveys (if publicly available).  
+- **Toolkit Setup**: Pre-download open-source libraries (TensorFlow, React.js) to comply with "no pre-work" rules.  
+- **Mentor Outreach**: Discuss feasibility with HackMAIT mentors to refine NLP model architecture.  
+
+#### **36-Hour Hackathon Plan**  
+**Day 1 (March 9, 10 AM – 5 PM)**  
+- **Hour 0–4**: Build MVP chatbot with React.js frontend + Java Spring Boot APIs.  
+- **Hour 4–8**: Train NLP model on mental health datasets (e.g., Crisis Text Line corpus).  
+- **Hour 8–12**: Implement encryption and anonymization in MySQL.  
+
+**Night (March 9, 5 PM – March 10, 9 AM)**  
+- **Debugging**: Test sentiment analysis accuracy and fix false positives/negatives.  
+
+**Day 2 (March 10, 9 AM – 10 PM)**  
+- **Hour 12–24**: Develop counselor dashboard with trend analytics (Chart.js).  
+- **Hour 24–30**: Integrate emergency alert system via Twilio API for SMS notifications.  
+- **Hour 30–36**: Create pitch deck + demo video highlighting MAIT-specific use cases.  
+
+#### **Post-Submission (March 11–18, 2025)**  
+- **Judging Phase**: Highlight MAIT’s potential to lead Delhi/NCR in student mental health innovation.  
+- **Post-Hackathon Scalability**: Partner with MAIT’s counseling center for pilot testing.  
+
+---
+
+### **Unique Value Proposition for HackMAIT**  
+1. **Local Relevance**: Tailored for Delhi/NCR student stress factors (e.g., competitive exams, commute stress).  
+2. **Cost-Effective**: Uses MAIT’s existing infrastructure (e.g., college Wi-Fi, LMS integration).  
+3. **Compliance**: Adheres to HackMAIT’s rules with all code written during the event (GitHub logs as proof).  
+
+---
+
+### **Expected Outcomes**  
+1. **For Students**: Reduce stigma around mental health with 24/7 anonymous support.  
+2. **For MAIT**: Position the institute as a pioneer in AI-driven student wellness.  
+3. **For Judges**: Demonstrate a **working prototype** with live sentiment analysis and counselor alerts.  
 ---
 
 ### **Why This Idea Stands Out?**  
