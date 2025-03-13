@@ -1,5 +1,5 @@
 # HackMAIT_6.0
-
+# MindGuardian
 ### **Project Title**  
 **MindGuardian - AI-Powered Mental Health Assistant for Students**  
 
